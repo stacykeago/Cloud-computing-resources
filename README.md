@@ -8,5 +8,6 @@
 * Azure [https://learn.microsoft.com/en-us/azure/?product=popular]
 * Google cloud [https://cloud.google.com/docs]
 * EDX Cloud computing [https://www.edx.org/learn/cloud-computing]
+* linkedIN [https://www.linkedin.com/pulse/how-become-cloud-engineer-2023-karimi-christine?utm_source=share&utm_medium=member_android&utm_campaign=share_via]
 
 
